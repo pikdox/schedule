@@ -1,0 +1,6 @@
+{
+	"/": [],
+	"/[schedule_id]": [
+		"src/routes/[schedule_id]/+page.server.ts"
+	]
+}
